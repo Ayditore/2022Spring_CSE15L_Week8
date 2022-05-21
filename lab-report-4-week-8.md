@@ -6,7 +6,7 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 [**Link to my own markdown-parse repo**](https://github.com/Ayditore/markdown-parser)  
 
-[**Link to reviewed markdown-parse repo**](https://github.com/NuojinliXu/markdown-parser)  
+[**Link to lab 7 reviewed markdown-parse repo**](https://github.com/NuojinliXu/markdown-parser)  
 
 ---
 
@@ -20,6 +20,7 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 ![snippet-3-preview](Snippet-3-preview.png)
 
 ---
+
 ## My code in MarkdownParseTest.java showing how I write tests
 
 ![MarkdownParseTestCode]()
@@ -59,6 +60,8 @@ In this report, I would like to show you testing 3 snippet on my own implementat
     Passed? 
 
 ---
+
+## Question and Answers
 
 **_Questions: Do you think there is a small (<10 lines) code change that will make your program work for snippet 1/2/3 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change._**
 
