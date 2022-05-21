@@ -29,38 +29,38 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 * Snippet 1 Result  
 ![ResultOfrunning-snippet-1-a]()
 
-Passed? 
+    Passed? 
 
 * Snippet 2 Result  
 ![ResultOfrunning-snippet-2-a]()
 
-Passed? 
+    Passed? 
 
 * Snippet 3 Result  
 ![ResultOfrunning-snippet-3-a]()
 
-Passed? 
+    Passed? 
 
 ## Result running Junit Test using lab 7 reviewed of markdown parse
 
 * Snippet 1 Result  
 ![ResultOfrunning-snippet-1-b]()
 
-Passed? 
+    Passed? 
 
 * Snippet 2 Result  
 ![ResultOfrunning-snippet-2-b]()
 
-Passed? 
+    Passed? 
 
 * Snippet 3 Result  
 ![ResultOfrunning-snippet-3-b]()
 
-Passed? 
+    Passed? 
 
 ---
 
-Questions: Do you think there is a small (<10 lines) code change that will make your program work for snippet 1/2/3 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+**_Questions: Do you think there is a small (<10 lines) code change that will make your program work for snippet 1/2/3 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change._**
 
 ## Answer to Snippet 1 test with my own implementation of markdown-parse  
 Ans:
