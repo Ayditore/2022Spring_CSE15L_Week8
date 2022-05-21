@@ -26,34 +26,34 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 ## Result running Junit Test using my implementation of markdown parse
 
-* Snippet 1 Result
+* Snippet 1 Result  
 ![ResultOfrunning-snippet-1-a]()
 
 Passed? 
 
-* Snippet 2 Result
+* Snippet 2 Result  
 ![ResultOfrunning-snippet-2-a]()
 
 Passed? 
 
-* Snippet 3 Result
+* Snippet 3 Result  
 ![ResultOfrunning-snippet-3-a]()
 
 Passed? 
 
 ## Result running Junit Test using lab 7 reviewed of markdown parse
 
-* Snippet 1 Result
+* Snippet 1 Result  
 ![ResultOfrunning-snippet-1-b]()
 
 Passed? 
 
-* Snippet 2 Result
+* Snippet 2 Result  
 ![ResultOfrunning-snippet-2-b]()
 
 Passed? 
 
-* Snippet 3 Result
+* Snippet 3 Result  
 ![ResultOfrunning-snippet-3-b]()
 
 Passed? 
