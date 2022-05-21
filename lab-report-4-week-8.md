@@ -12,15 +12,15 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 ## Snippet 1 Preview using the CommonMark demo site  
 
-[snippet-1-preview](Snippet-1-preview.png)
+![snippet-1-preview](Snippet-1-preview.png)
 
 ## Snippet 2 Preview using the CommonMark demo site  
 
-[snippet-2-preview](Snippet-2-preview.png)
+![snippet-2-preview](Snippet-2-preview.png)
 
 ## Snippet 3 Preview using the CommonMark demo site  
 
-[snippet-3-preview](Snippet-3-preview.png)
+![snippet-3-preview](Snippet-3-preview.png)
 
 ---
 
