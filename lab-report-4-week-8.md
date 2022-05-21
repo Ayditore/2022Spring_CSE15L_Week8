@@ -11,27 +11,62 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 ---
 
 ## Snippet 1 Preview using the CommonMark demo site  
-
 ![snippet-1-preview](Snippet-1-preview.png)
 
 ## Snippet 2 Preview using the CommonMark demo site  
-
 ![snippet-2-preview](Snippet-2-preview.png)
 
 ## Snippet 3 Preview using the CommonMark demo site  
-
 ![snippet-3-preview](Snippet-3-preview.png)
 
 ---
+## My code in MarkdownParseTest.java showing how I write tests
 
-## Test Snippet 1 test with my own implementation of markdown-parse
+![MarkdownParseTestCode]()
 
-## Test Snippet 2 test with my own implementation of markdown-parse
+## Result running Junit Test using my implementation of markdown parse
 
-## Test Snippet 3 test with my own implementation of markdown-parse
+* Snippet 1 Result
+![ResultOfrunning-snippet-1-a]()
 
-## Test Snippet 1 test with lab 7 reviewed implementation of markdown-parse
+Passed? 
 
-## Test Snippet 2 test with lab 7 reviewed implementation of markdown-parse
+* Snippet 2 Result
+![ResultOfrunning-snippet-2-a]()
 
-## Test Snippet 3 test with lab 7 reviewed implementation of markdown-parse
+Passed? 
+
+* Snippet 3 Result
+![ResultOfrunning-snippet-3-a]()
+
+Passed? 
+
+## Result running Junit Test using lab 7 reviewed of markdown parse
+
+* Snippet 1 Result
+![ResultOfrunning-snippet-1-b]()
+
+Passed? 
+
+* Snippet 2 Result
+![ResultOfrunning-snippet-2-b]()
+
+Passed? 
+
+* Snippet 3 Result
+![ResultOfrunning-snippet-3-b]()
+
+Passed? 
+
+---
+
+Questions: Do you think there is a small (<10 lines) code change that will make your program work for snippet 1/2/3 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+## Answer to Snippet 1 test with my own implementation of markdown-parse  
+Ans:
+
+## Answer to Snippet 2 test with my own implementation of markdown-parse  
+And:
+
+## Answer to Snippet 3 test with my own implementation of markdown-parse  
+Ans:
