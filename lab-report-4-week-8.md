@@ -65,11 +65,14 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 **_Questions: Do you think there is a small (<10 lines) code change that will make your program work for snippet 1/2/3 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change._**
 
-## Answer to Snippet 1 test with my own implementation of markdown-parse  
-Ans:
+* Answer to Snippet 1 test with my own implementation of markdown-parse  
 
-## Answer to Snippet 2 test with my own implementation of markdown-parse  
-And:
+    Ans:
 
-## Answer to Snippet 3 test with my own implementation of markdown-parse  
-Ans:
+* Answer to Snippet 2 test with my own implementation of markdown-parse 
+
+    Ans:
+
+* Answer to Snippet 3 test with my own implementation of markdown-parse 
+
+    Ans:
