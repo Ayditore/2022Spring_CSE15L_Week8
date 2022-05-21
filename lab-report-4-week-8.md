@@ -6,7 +6,7 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 [**Link to my own markdown-parse repo**](https://github.com/Ayditore/markdown-parser)  
 
-[**Link to reviewed markdown-parse repo**](https://github.com/Ayditore/markdown-parser)  
+[**Link to reviewed markdown-parse repo**](https://github.com/NuojinliXu/markdown-parser)  
 
 ---
 
