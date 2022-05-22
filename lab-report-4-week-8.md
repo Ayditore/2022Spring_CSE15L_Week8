@@ -23,7 +23,15 @@ In this report, I would like to show you testing 3 snippet on my own implementat
 
 ## My code in MarkdownParseTest.java showing how I write tests
 
-![MarkdownParseTestCode]()
+* Test for Snippet 1
+![MarkdownParseTestCode-1]()
+
+* Test fpr snippet 2
+
+![MarkdownParseTestCode-2]()
+
+* Test for snippet 3
+![MarkdownParseTestCode-3]()
 
 ## Result running Junit Test using my implementation of markdown parse
 
